@@ -76,7 +76,7 @@ class Article extends Component {
         this.setState({
             titleImage: 'Massive Fog Banks',
             mainImage: PIC8,
-            titeCap: 'The Fog Rolls In Think In The Rockies'
+            titeCap: 'The Fog Rolls In Thick In The Rockies'
         })
     }
     changePIC9(e) {
