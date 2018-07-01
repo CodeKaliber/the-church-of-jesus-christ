@@ -67,7 +67,7 @@ class Article extends Component {
     }
     changePIC7(e) {
         this.setState({
-            titleImage: 'Areal Photography',
+            titleImage: 'Aerial Photography',
             mainImage: PIC7,
             titeCap: 'Great Bridges of the East'
         })
