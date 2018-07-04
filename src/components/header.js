@@ -28,20 +28,3 @@ class Header extends Component {
 }
 
 export default Header;
-
-// import React, { Component } from 'react';
-// import { Link } from 'react-router-dom';
-
-// class Home extends Component {
-//   render() {
-//     return (
-//       <div className="App">
-//         <h1>Welcome to Home</h1>
-//         <Link to={"/helloworld"}><button>Jump To Hello World</button></Link>
-//         <Link to={"/welcome"}><button>Jump To Welcome</button></Link>
-//       </div>
-//     );
-//   }
-// }
-
-// export default Home;
