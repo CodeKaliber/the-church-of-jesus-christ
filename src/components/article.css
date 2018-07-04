@@ -304,6 +304,16 @@ footer {
     .container img {
         width: 60%;
     }
+    .topText {
+        width: 60%;
+        margin: 0px 20% 15px 20%;
+        font-size: 20px;
+    }
+    .bottomText {
+        width: 60%;
+        margin: 0px 20% 0px 20%;
+        font-size: 14px;
+    }
     .thumbnail {
         width: 60%;
         height: auto;
@@ -332,6 +342,10 @@ footer {
     .lowerVidText {
         font-size: 8px;
         font-weight: bold;
+    }
+    .titleLowerText iframe {
+        width: 100%;
+        height: auto;
     }
 }
 /*------- Ending Screen Size For 768px -------*/
@@ -376,6 +390,16 @@ footer {
     .container img {
         width: 80%;
     }
+    .topText {
+        width: 80%;
+        margin: 0px 10% 15px 10%;
+        font-size: 20px;
+    }
+    .bottomText {
+        width: 80%;
+        margin: 0px 10% 0px 10%;
+        font-size: 14px;
+    }
     .thumbnail {
         width: 80%;
         height: auto;
@@ -404,6 +428,10 @@ footer {
     .lowerVidText {
         font-size: 8px;
         font-weight: bold;
+    }
+    .titleLowerText iframe {
+        width: 100%;
+        height: auto;
     }
 }
 /*------- Starting Screen Size For 468px -------*/
